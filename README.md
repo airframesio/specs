@@ -12,7 +12,7 @@ Specifications for large, impactful, or interesting Airframes features.
 - [SPEC-007 - Binary Installer for Decoder Client: dumphfdl](specs/SPEC-007-Binary_Installer_for_Decoder_Client_dumphfdl.md)
 - [SPEC-008](specs/SPEC-008.md) -
 - [SPEC-020 - Generic Docker Client Installer Format](specs/SPEC-020-Generic_Docker_Client_Installer_Format.md)
-- 
+- [SPEC-021 - Airwaves OS Application Format](specs/SPEC-021-Airwaves_OS_Application_format.md)
 
 ## Templates
 
