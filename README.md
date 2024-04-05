@@ -3,11 +3,11 @@ Specifications for large, impactful, or interesting Airframes features.
 
 ## Specifications
 
-Potential statuses are `Unwritten`, `Proposed`, `Approved`, `Rejected`, `Implemented`.
+Potential statuses are `Unwritten`, `WIP`, `Proposed`, `Approved`, `Rejected`, `Implemented`.
 
 |Specification|Status|
 |-------------|------|
-|[SPEC-001 - General Binary Client Installer Format](specs/SPEC-001-General_Binary_Client_Installer_Format.md)|Unwritten|
+|[SPEC-001 - General Binary Client Installer Format](specs/SPEC-001-General_Binary_Client_Installer_Format.md)|WIP|
 |[SPEC-002 - Binary Installer for Decoder Client: xng](specs/SPEC-002-Binary_Installer_for_Decoder_Client_xng.md)|Unwritten|
 |[SPEC-003 - Binary Installer for Decoder Client: pw-feeder](specs/SPEC-003-Binary_Installer_for_Decoder_Client_pw-feeder.md)|Unwritten|
 |[SPEC-004 - Binary Installer for Decoder Client: acarsdec](specs/SPEC-004-Binary_Installer_for_Decoder_Client_acarsdec.md)|Unwritten|
