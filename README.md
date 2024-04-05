@@ -4,12 +4,12 @@ Specifications for large, impactful, or interesting Airframes features.
 ## Specifications
 
 - [SPEC-001 - General Binary Client Installer Format](specs/SPEC-001-General_Binary_Client_Installer_Format.md)
-- [SPEC-002](specs/SPEC-002.md) - Binary Installer for Decoder Client: xng
-- [SPEC-003](specs/SPEC-003.md) - Binary Installer for Decoder Client: pw-feeder
-- [SPEC-004](specs/SPEC-004.md) - Binary Installer for Decoder Client: acarsdec
-- [SPEC-005](specs/SPEC-005.md) - Binary Installer for Decoder Client: vdlm2dec
-- [SPEC-006](specs/SPEC-006.md) - Binary Installer for Decoder Client: dumpvdl2
-- [SPEC-007](specs/SPEC-007.md) - Binary Installer for Decoder Client: dumphfdl
+- [SPEC-002 - Binary Installer for Decoder Client: xng](specs/SPEC-002-Binary_Installer_for_Decoder_Client_xng.md)
+- [SPEC-003 - Binary Installer for Decoder Client: pw-feeder](specs/SPEC-003-Binary_Installer_for_Decoder_Client_pw-feeder.md)
+- [SPEC-004 - Binary Installer for Decoder Client: acarsdec](specs/SPEC-004-Binary_Installer_for_Decoder_Client_acarsdec.md)
+- [SPEC-005 - Binary Installer for Decoder Client: vdlm2dec](specs/SPEC-005-Binary_Installer_for_Decoder_Client_vdlm2dec.md)
+- [SPEC-006 - Binary Installer for Decoder Client: dumpvdl2](specs/SPEC-006-Binary_Installer_for_Decoder_Client_dumpvdl2.md)
+- [SPEC-007 - Binary Installer for Decoder Client: dumphfdl](specs/SPEC-007-Binary_Installer_for_Decoder_Client_dumphfdl.md)
 - [SPEC-008](specs/SPEC-008.md) - 
 
 ## Templates
