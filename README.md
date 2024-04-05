@@ -3,6 +3,8 @@ Specifications for large, impactful, or interesting Airframes features.
 
 ## Specifications
 
+Potential statuses are `Unwritten`, `Proposed`, `Approved`, `Rejected`, `Implemented`.
+
 |Specification|Status|
 |-------------|------|
 |[SPEC-001 - General Binary Client Installer Format](specs/SPEC-001-General_Binary_Client_Installer_Format.md)|Unwritten|
