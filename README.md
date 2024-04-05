@@ -19,7 +19,7 @@ Potential statuses are `Unwritten`, `WIP`, `Proposed`, `Approved`, `Rejected`, `
 |[SPEC-010 - Realtime Data Layer](specs/SPEC-010-Realtime_Data_Layer.md)|Unwritten|
 |[SPEC-011 - Airline Package Format](specs/SPEC-011-Airline_Package_Format.md)|Unwritten|
 |[SPEC-012 - Airframe History Format](specs/SPEC-012-Airframe_History_Format.md)|Unwritten|
-|[SPEC-013]()|Unwritten|
+|[SPEC-013 - Daily Rollup Storage](specs/SPEC-013-Daily_Rollup_Storage.md)|Unwritten|
 |[SPEC-014]()|Unwritten|
 |[SPEC-015]()|Unwritten|
 |[SPEC-016]()|Unwritten|
