@@ -12,13 +12,23 @@ what this specification is trying to accomplish. Delete this line.]
 
 ## Context
 
+[Describe the general context of the specification]
+
 ## Goals
+
+[Describe the goals of the specification]
 
 ## Out of Scope
 
+[Describe what is out of scope or untouched by the specification]
+
 ## Changes
 
+[Describe in depth what changes will be made. This is the meat of the specification.]
+
 ## Planning
+
+[Used to highlight a gameplan for implementation or activation of the specification feature(s).]
 
 ## References
 
