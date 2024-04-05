@@ -24,8 +24,8 @@ Potential statuses are `Unwritten`, `WIP`, `Proposed`, `Approved`, `Rejected`, `
 |[SPEC-015 - Corporate API Access](specs/SPEC-015-Corporate_API_Access.md)|Unwritten|
 |[SPEC-016 - Contributor/Patreon API Access](specs/SPEC-016-Contributor_Patreon_API_Access.md)|Unwritten|
 |[SPEC-017 - Batch Export by Credit](specs/SPEC-017-Batch_Export_by_Credit.md)|Unwritten|
-|[SPEC-018]()|Unwritten|
-|[SPEC-019]()|Unwritten|
+|[SPEC-018 - Webapp Reimplementation to React 19](specs/SPEC-018-Webapp_Reimplementation_to_React_19.md)|Unwritten|
+|[SPEC-019 - Globe 1.0.0 Release](specs/SPEC-019-Globe_1.0.0_Release.md)|Unwritten|
 |[SPEC-020 - Docker Decoder Client Format](specs/SPEC-020-Docker_Decoder_Client_Format.md)|Unwritten|
 |[SPEC-021 - Airwaves OS Application Package Format](specs/SPEC-021-Airwaves_OS_Application_Package_Format.md)|Unwritten|
 
