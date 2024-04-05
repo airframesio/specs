@@ -7,4 +7,4 @@ Specifications for large, impactful, or interesting Airframes features.
 
 ## Templates
 
-All **new** specifications should use the [SPEC-template.md](SPEC-template).
+All **new** specifications should use the [SPEC-template.md](SPEC-template.md).
