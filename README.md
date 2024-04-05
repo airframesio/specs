@@ -3,4 +3,8 @@ Specifications for Large, Impactful, or Interesting Airframes Features
 
 ## Specifications
 
-[SPEC-1](specs/SPEC-1.md)
+[SPEC-001](specs/SPEC-001.md) - 
+
+## Templates
+
+All **new** specifications should use the [SPEC-template.md](SPEC-template).
