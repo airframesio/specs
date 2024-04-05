@@ -1,5 +1,5 @@
 # Specifications for Airframes Features
-Specifications for Large, Impactful, or Interesting Airframes Features
+Specifications for large, impactful, or interesting Airframes features.
 
 ## Specifications
 
