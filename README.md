@@ -20,10 +20,10 @@ Potential statuses are `Unwritten`, `WIP`, `Proposed`, `Approved`, `Rejected`, `
 |[SPEC-011 - Airline Package Format](specs/SPEC-011-Airline_Package_Format.md)|Unwritten|
 |[SPEC-012 - Airframe History Format](specs/SPEC-012-Airframe_History_Format.md)|Unwritten|
 |[SPEC-013 - Daily Rollup Storage](specs/SPEC-013-Daily_Rollup_Storage.md)|Unwritten|
-|[SPEC-014]()|Unwritten|
-|[SPEC-015]()|Unwritten|
-|[SPEC-016]()|Unwritten|
-|[SPEC-017]()|Unwritten|
+|[SPEC-014 - Consumer API Access](specs/SPEC-014-Consumer_API_Access.md)|Unwritten|
+|[SPEC-015 - Corporate API Access](specs/SPEC-015-Corporate_API_Access.md)|Unwritten|
+|[SPEC-016 - Contributor/Patreon API Access](specs/SPEC-016-Contributor_Patreon_API_Access.md)|Unwritten|
+|[SPEC-017 - Batch Export by Credit](specs/SPEC-017-Batch_Export_by_Credit.md)|Unwritten|
 |[SPEC-018]()|Unwritten|
 |[SPEC-019]()|Unwritten|
 |[SPEC-020 - Docker Decoder Client Format](specs/SPEC-020-Docker_Decoder_Client_Format.md)|Unwritten|
