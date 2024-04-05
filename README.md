@@ -10,7 +10,9 @@ Specifications for large, impactful, or interesting Airframes features.
 - [SPEC-005 - Binary Installer for Decoder Client: vdlm2dec](specs/SPEC-005-Binary_Installer_for_Decoder_Client_vdlm2dec.md)
 - [SPEC-006 - Binary Installer for Decoder Client: dumpvdl2](specs/SPEC-006-Binary_Installer_for_Decoder_Client_dumpvdl2.md)
 - [SPEC-007 - Binary Installer for Decoder Client: dumphfdl](specs/SPEC-007-Binary_Installer_for_Decoder_Client_dumphfdl.md)
-- [SPEC-008](specs/SPEC-008.md) - 
+- [SPEC-008](specs/SPEC-008.md) -
+- [SPEC-020 - Generic Docker Client Installer Format](specs/SPEC-020-Generic_Docker_Client_Installer_Format.md)
+- 
 
 ## Templates
 
