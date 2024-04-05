@@ -3,7 +3,7 @@ Specifications for large, impactful, or interesting Airframes features.
 
 ## Specifications
 
-- [SPEC-001](specs/SPEC-001.md) - General Binary Client Installer Format
+- [SPEC-001 - General Binary Client Installer Format](specs/SPEC-001-General_Binary_Client_Installer_Format.md)
 - [SPEC-002](specs/SPEC-002.md) - Binary Installer for Decoder Client: xng
 - [SPEC-003](specs/SPEC-003.md) - Binary Installer for Decoder Client: pw-feeder
 - [SPEC-004](specs/SPEC-004.md) - Binary Installer for Decoder Client: acarsdec
